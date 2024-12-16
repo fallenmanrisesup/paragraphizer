@@ -5,7 +5,7 @@ Paragraphizer — tool for splitting html document blocks into slice of paragrap
 # Install package
 
 ```bash
-go get github.com/ваш_пользователь/paragraphizer
+go get github.com/fallenmanrisesup/paragraphizer
 ```
 
 # Example
